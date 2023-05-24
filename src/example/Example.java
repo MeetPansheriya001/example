@@ -17,6 +17,7 @@ public class Example {
         // TODO code application logic here
         
         System.out.println("Learning Github");
+        System.out.println("Learning Github operation");
     }
     
 }
